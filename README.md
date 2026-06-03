@@ -1,6 +1,6 @@
 # Installing Python & Running Programs
 
-1.Simple Hello World
+1. Simple Hello World
 . Objective: Create first Python file.
 . Task: Write and execute hello program.
 Instructions:
@@ -16,7 +16,7 @@ print("Hello World!")
 
 
 # Text Editors and IDEs
-2.Jupyter Notebook
+2. Jupyter Notebook
 Objective: Create Jupyter notebook.
 . Task: Basic notebook operations.
 . Instructions:
@@ -31,7 +31,7 @@ print("Hello, Jupyter!")
 <img width="409" height="86" alt="image" src="https://github.com/user-attachments/assets/50f4bd1c-07df-4cff-ad31-e210169cee10" />
 
 
-3.VS Code Setup
+3. VS Code Setup
 . Objective: Configure Python in VS Code.
 Task: Install Python extension.
 . Instructions:
