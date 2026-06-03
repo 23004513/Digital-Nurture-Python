@@ -28,6 +28,7 @@ Objective: Create Jupyter notebook.
 print("Hello, Jupyter!")
 ```
 # OUTPUT
+<img width="409" height="86" alt="image" src="https://github.com/user-attachments/assets/50f4bd1c-07df-4cff-ad31-e210169cee10" />
 
 
 3.VS Code Setup
